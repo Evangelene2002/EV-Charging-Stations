@@ -1,1 +1,2 @@
 # EV-Charging-Stations
+This is the solution to the issue "Prototype Build". This build contains a portal through which the Landlords (users) can register and the EV Company Owner (admin) can view the applied Landlords. In the admin login he/she can view the applied Landlords who are willing to have a charging station in their space,(only who have registered) then admin can request a on-site inspection which can be done by a click of a button and mail will be send directly to the Landlords.
